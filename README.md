@@ -7,5 +7,5 @@ Download client application from here - <a>https://github.com/amrit-sbagga/AIDL_
 
 Steps to Run the application:
 
-1. First Run the Service application, in our case its Android_AdditionService. This will display Hello World.
+1. First Run the Service application, in our case its AIDL_AdditionService. This will display Hello World.
 2. Run the client application, which is AIDL_Sample. Input values and check the result.
